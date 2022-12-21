@@ -1,0 +1,14 @@
+### Project ###
+list.db
+
+### Go ###
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+### GoLand ###
+.idea/
