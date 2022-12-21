@@ -5,9 +5,9 @@ import (
 	"database/sql"
 	"encoding/json"
 	"errors"
+	"github.com/erayaydin/mailing-list/mdb"
 	"io"
 	"log"
-	"mailing-list/mdb"
 	"net/http"
 )
 

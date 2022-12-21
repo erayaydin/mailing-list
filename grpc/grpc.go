@@ -3,10 +3,10 @@ package grpc
 import (
 	"context"
 	"database/sql"
+	"github.com/erayaydin/mailing-list/mdb"
+	"github.com/erayaydin/mailing-list/proto"
 	"google.golang.org/grpc"
 	"log"
-	"mailing-list/mdb"
-	"mailing-list/proto"
 	"net"
 	"time"
 )

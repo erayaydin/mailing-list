@@ -1,4 +1,4 @@
-module mailing-list
+module github.com/erayaydin/mailing-list
 
 go 1.19
 

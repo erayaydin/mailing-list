@@ -3,10 +3,10 @@ package main
 import (
 	"context"
 	"github.com/alexflint/go-arg"
+	"github.com/erayaydin/mailing-list/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
 	"log"
-	"mailing-list/proto"
 	"time"
 )
 

@@ -3,10 +3,10 @@ package main
 import (
 	"database/sql"
 	"github.com/alexflint/go-arg"
+	"github.com/erayaydin/mailing-list/grpc"
+	"github.com/erayaydin/mailing-list/jsonapi"
+	"github.com/erayaydin/mailing-list/mdb"
 	"log"
-	"mailing-list/grpc"
-	"mailing-list/jsonapi"
-	"mailing-list/mdb"
 	"sync"
 )
 
